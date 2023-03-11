@@ -12,9 +12,12 @@ require 'includes/header.php'
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <rect width="100%" height="100%" fill="#777" />
-                    </svg>
+                    <!-- <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"> --> -->
+                        <!-- <rect width="100%" height="100%" fill="#777" /> -->
+                    <!-- </svg> -->
+                    <img  class="bd-placeholder-img" width="100%" height="100%" src="https://internationalwealth.info/wp-content/uploads/2019/12/online-shop.jpg" alt="">
+                    
+
 
                     <div class="container">
                         <div class="carousel-caption text-start">
@@ -25,9 +28,10 @@ require 'includes/header.php'
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <!-- <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <rect width="100%" height="100%" fill="#777" />
-                    </svg>
+                    </svg> -->
+                    <img  class="bd-placeholder-img" width="100%" height="100%" src="https://alterainvest.ru/upload/iblock/2a9/2a9613b5e3f4df3a157d45e88cdf86a1.jpg" alt="">
 
                     <div class="container">
                         <div class="carousel-caption">
@@ -38,9 +42,11 @@ require 'includes/header.php'
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <!-- <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <rect width="100%" height="100%" fill="#777" />
-                    </svg>
+                    </svg> -->
+
+                    <img  class="bd-placeholder-img" width="100%" height="100%" src="https://s5.stc.all.kpcdn.net/money/wp-content/uploads/2022/08/kak-otkryt-internet-magazin-s-nulya-1232.jpg" alt="">
 
                     <div class="container">
                         <div class="carousel-caption text-end">
