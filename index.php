@@ -1,4 +1,7 @@
-<?php require 'includes/header.php' ?>
+<?php 
+$title = 'Onlain shop';
+require 'includes/header.php' 
+?>
 
     
         <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
